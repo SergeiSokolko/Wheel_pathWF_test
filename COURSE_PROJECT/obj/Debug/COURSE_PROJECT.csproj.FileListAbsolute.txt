@@ -1,0 +1,10 @@
+C:\Users\Serg\source\repos\COURSE_PROJECT\COURSE_PROJECT\bin\Debug\COURSE_PROJECT.exe.config
+C:\Users\Serg\source\repos\COURSE_PROJECT\COURSE_PROJECT\bin\Debug\COURSE_PROJECT.exe
+C:\Users\Serg\source\repos\COURSE_PROJECT\COURSE_PROJECT\bin\Debug\COURSE_PROJECT.pdb
+C:\Users\Serg\source\repos\COURSE_PROJECT\COURSE_PROJECT\obj\Debug\COURSE_PROJECT.csprojAssemblyReference.cache
+C:\Users\Serg\source\repos\COURSE_PROJECT\COURSE_PROJECT\obj\Debug\COURSE_PROJECT.Form1.resources
+C:\Users\Serg\source\repos\COURSE_PROJECT\COURSE_PROJECT\obj\Debug\COURSE_PROJECT.Properties.Resources.resources
+C:\Users\Serg\source\repos\COURSE_PROJECT\COURSE_PROJECT\obj\Debug\COURSE_PROJECT.csproj.GenerateResource.cache
+C:\Users\Serg\source\repos\COURSE_PROJECT\COURSE_PROJECT\obj\Debug\COURSE_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Serg\source\repos\COURSE_PROJECT\COURSE_PROJECT\obj\Debug\COURSE_PROJECT.exe
+C:\Users\Serg\source\repos\COURSE_PROJECT\COURSE_PROJECT\obj\Debug\COURSE_PROJECT.pdb
